@@ -1,4 +1,3 @@
-StudentId: 500813614
 Name: Alfred Langer
 
 All of the java files should function the way they are supposed based on the Word Document
@@ -21,19 +20,19 @@ Note: Make sure to enter the command "ADD" when the program starts so the car de
 
 List of Commands
 
-a.	“L” : lists the cars currently in the dealership
+a.	â€œLâ€ : lists the cars currently in the dealership
 
-b.	“Q” : quit out of the simulator
+b.	â€œQâ€ : quit out of the simulator
 
-c.	“BUY (int)” : buys a car from the dealership based on the VIN/integer provided and creates a BUY transaction.
+c.	â€œBUY (int)â€ : buys a car from the dealership based on the VIN/integer provided and creates a BUY transaction.
 	(Note: The VIN/integer should be the VIN of the car you want to purchase)
 
-d.	“RET (int)” : returns the car associated with the integer provided and creates a RETURN transaction.
+d.	â€œRET (int)â€ : returns the car associated with the integer provided and creates a RETURN transaction.
 
-e.	“ADD” : adds cars to the dealership so they can be displayed 
+e.	â€œADDâ€ : adds cars to the dealership so they can be displayed 
 	(Note: You can only use the command once, it will have no effect after it's first use)
 
-f.	“SPR” : This will sort the list of cars by price from lowest to highest
+f.	â€œSPRâ€ : This will sort the list of cars by price from lowest to highest
 
 g.	"SSR" : This will sort the list of cars by safety rating from highest to lowest
 
